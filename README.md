@@ -29,9 +29,9 @@ Interactive analysis by sector, region and deadline
 
 ---
 
-![Pipeline Overview](assets/overview-page.png)
+![Pipeline Overview](assets/KPIs.png)
 
-![Opportunity Explorer](assets/opportunity-explorer.png)
+![Opportunity Explorer](assets/OpportunityExplorer.png)
 
 ---
 

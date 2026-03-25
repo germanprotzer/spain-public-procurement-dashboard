@@ -1,4 +1,4 @@
-#  Spain Public Procurement Dashboard
+# Spain Public Procurement Dashboard
 
 Power BI portfolio project focused on identifying real procurement opportunities in Spain.
 
